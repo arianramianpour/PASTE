@@ -25,7 +25,7 @@ https://github.com/boxlabss/PASTE/issues/new
 
 Requirements
 ===
- - PHP 7.4 or higher with `pdo_mysql`, `openssl`, and `curl` extensions
+ - PHP 8.0 or higher with `pdo_mysql`, `openssl`, and `curl` extensions
   - MySQL or MariaDB
   - Composer for dependency management
   - Web server (e.g., Apache/Nginx) with HTTPS enabled (if OAuth enabled as below)
